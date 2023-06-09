@@ -13,7 +13,7 @@ import toast, { Toaster } from 'react-hot-toast'
 export const initialMessages = [
   {
     role: 'assistant',
-    content: 'Hi! I am a Jeopardy expert. Fire away with trivia questions!',
+    content: 'Hi! ',
   },
 ]
 
